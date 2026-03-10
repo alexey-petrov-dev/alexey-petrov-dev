@@ -49,4 +49,4 @@ Commercial experience in programming since 2018 (background: SAS, Java). In addi
 
 ## 📬 My contacts
 
-[<img src="https://simpleicons.org/icons/github.svg" width="30">](https://github.com/alexey-petrov-dev)  [<img src="https://simpleicons.org/icons/telegram.svg" width="30">](https://t.me/alexey_petrov_tg)  [<img src="https://simpleicons.org/icons/gmail.svg" width="30">](alexey.petrov.email@yandex.ru)  [<img src="https://simpleicons.org/icons/whatsapp.svg" width="30">](https://wa.me/79669300435)
+[<img src="https://simpleicons.org/icons/github.svg" width="30">](https://github.com/alexey-petrov-dev)  [<img src="https://simpleicons.org/icons/telegram.svg" width="30">](https://t.me/alexey_petrov_tg)  [<img src="https://simpleicons.org/icons/gmail.svg" width="30">](mailto:alexey.petrov.email@yandex.ru)  [<img src="https://simpleicons.org/icons/whatsapp.svg" width="30">](https://wa.me/79669300435)
