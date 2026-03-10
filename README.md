@@ -24,7 +24,7 @@ Here I post my educational and personal projects, which reflect my direction of 
 
 ### Core technologies
 
-| Category | Instrument |
+| Category | Tool |
 |-----------|-------------|
 | **Languages** | Python, SQL |
 | **Backend** | FastAPI, Pydantic, SQLAlchemy (Core/ORM), asyncio |
